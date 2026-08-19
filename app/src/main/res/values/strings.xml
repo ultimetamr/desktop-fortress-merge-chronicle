@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">桌面堡垒：合成战记</string>
+    <string name="spatial_initializing">正在初始化空间感知</string>
+    <string name="permission_degraded">相机权限被拒绝，将使用悬浮棋盘</string>
+</resources>
